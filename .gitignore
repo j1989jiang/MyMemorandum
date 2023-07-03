@@ -1,0 +1,12 @@
+*.log
+.idea
+*.iml
+*/target
+/config
+/TestReport
+/logs
+/logs-android
+.classpath
+.project
+.DS_Store
+*.csv
